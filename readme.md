@@ -6,7 +6,7 @@
 ---
 
 # Additional Information
-This was the first mini project conducted through the Level 5 Dimploma Fullstack Web Development. The code was compiled in Replit and saved to my personal system. This project was later pushed to Github at a later date.
+This was the first mini project conducted through the Level 5 Dimploma Fullstack Web Development. The code was compiled in Replit and saved to my personal system. This project was pushed to Github at a later date.
 <br>
 There are [known bugs](#known-bugs) which may be rectified at a later date. This is not intended to become a live site, this was purely used for learning purposes at the start of my course.
 
@@ -22,15 +22,13 @@ There are [known bugs](#known-bugs) which may be rectified at a later date. This
 ## Frameworks, Libraries & Programs Used
 1. [Visual Studio Code](https://code.visualstudio.com/)
     * Visual Studio Code was used to push the file to Github
-2. [Git](https://git-scm.com/)
-    * Git was used for version control
-3. [Github](https://github.com/)
+2. [Github](https://github.com/)
     * Github is used to store the code
-4. [Font Awesome](https://fontawesome.com/icons)
+3. [Font Awesome](https://fontawesome.com/icons)
     * Font Awesome was used to add styling to the site through icons
-5. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+4. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
     * Chrome Dev Tools was used to debug minor issues and as an aid when styling the website
-6. [Google Fonts](https://fonts.google.com/)
+5. [Google Fonts](https://fonts.google.com/)
 
     ---
 # Testing
