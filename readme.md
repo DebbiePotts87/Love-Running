@@ -1,8 +1,17 @@
 # Love Running
 #### First Mini project carried out through Code Institute during the CSS module.
----
+
+[View the live site here](https://debbiepotts87.github.io/Love-Running-1/)
 
 ---
+
+# Additional Information
+This was the first mini project conducted through the Level 5 Dimploma Fullstack Web Development. The code was compiled in Replit and saved to my personal system. This project was later pushed to Github at a later date.
+<br>
+There are [known bugs](#known-bugs) which may be rectified at a later date. This is not intended to become a live site, this was purely used for learning purposes at the start of my course.
+
+---
+
 # Technology Used
 
 ## Languages Used
@@ -12,7 +21,7 @@
 
 ## Frameworks, Libraries & Programs Used
 1. [Visual Studio Code](https://code.visualstudio.com/)
-    * Visual Studio Code was used to complie the code to complete the website.
+    * Visual Studio Code was used to push the file to Github
 2. [Git](https://git-scm.com/)
     * Git was used for version control
 3. [Github](https://github.com/)
@@ -35,6 +44,13 @@ The W3C Markup Validator and the W3C CSS Validator were used to validate the cod
 
 ### Google Dev Tools
 * Google Dev Tools was used to check responsive design
+
+---
+# Known Bugs
+
+* Responsive design
+    * Gallery page layout needs more work
+    * Media queries need adding for tablet screen sizes
 
 ---
 # Credits
