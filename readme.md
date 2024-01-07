@@ -1,4 +1,4 @@
-# Sample Resume
+# Love Running
 #### First Mini project carried out through Code Institute during the CSS module.
 ---
 
